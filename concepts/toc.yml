@@ -22,9 +22,10 @@ items:
   - name: Microsoft Graph data connect (preview)
     href: data-connect-overview.md
   - name: Training
+    href: training.md
     items:
     - name: ASP.NET
-      href: training/aspnet-tutorial
+      href: /graph/training/aspnet-tutorial/
 - name: LEARN
   expanded: true
   items:
